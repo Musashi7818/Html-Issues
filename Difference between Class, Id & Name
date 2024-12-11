@@ -1,0 +1,8 @@
+Class: Is a group of things.
+Ex: Shcool materials (pencil, ereaser, pencil case...)
+
+Id: Is a specific thing, and no other can have the same id.
+Ex: User id, user acount...
+
+Name: Is a specific data that user provide for us (useful for back-end developers)
+Ex: passwords...
